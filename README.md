@@ -13,3 +13,7 @@ No Arquivo Original temos a coluna de Código CNAE (Código Nacional de Atividad
 * tiramos os colchetes de uma das colunas de classificação.
 * print novamente para visualizar novo DataFrame agora tratado.
 * Carregando em novo arquivo xlsx.
+
+### Tecnologias Usadas:
+* Python com bibliotaca Pandas.
+
